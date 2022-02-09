@@ -1,0 +1,32 @@
+/* styles.css */
+
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: orange;
+}
+
+h3 {
+    color:aqua;
+}
+
+ul {
+    color:green;
+    background-color: yellow;
+}
+
+.deuce {
+    color: brown;
+    background-color: lightblue;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
